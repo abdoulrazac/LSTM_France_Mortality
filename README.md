@@ -1,1 +1,1 @@
-# LSTM_France_Mortality
+# LSTM methods for morality prediction
