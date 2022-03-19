@@ -1,1 +1,1 @@
-# LSTM methods for morality prediction
+# LSTM method for morality prediction
